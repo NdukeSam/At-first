@@ -3,7 +3,7 @@ App best viewed at 425px width viewport;
 
 still works perfectly on MD or LG viewports.
 
-A static mini-app built with React
+A static mini-app built with React.
 Enjoy!
 😊
 
